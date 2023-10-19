@@ -1,3 +1,3 @@
 # PowerBI
-Sales Reporting
+Sales Reporting &
 HR ANALYTICS
